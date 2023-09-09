@@ -1,5 +1,4 @@
 import { WebView } from "react-native-webview";
-import { StatusBar } from "expo-status-bar";
 
 export default function GitHubView() {
   return (
