@@ -25,6 +25,7 @@
       },
       "package": "com.mayorx19.step1mobile"
     },
+    
     "web": {
       "favicon": "./assets/favicon.png"
     },
